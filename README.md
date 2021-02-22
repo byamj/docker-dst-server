@@ -1,3 +1,15 @@
+## TODO
+Make mods easier to add
+   Provide the link to the mod in an input file and regex out the workshop id to write to the mod files
+
+
+
+
+
+
+
+
+
 # Don't Starve Together Dedicated Server Docker Image
 
 They write their server setup instructions like sh*t, so we made this Docker image to simplify things.
